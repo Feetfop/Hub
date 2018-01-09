@@ -41,17 +41,17 @@ p {
 }
 
 button {
-  height: 70vw;
-  width: 70vw;
+  height: 20vw;
+  width: 20vw;
   border-radius: 100%;
-  border-width: 6vw;
+  border-width: 3vw;
   border-style: double none;
   border-color: #ff6699;
-  font-size: 11vw;
+  font-size: 2vw;
   /*background-image:url(https://t7.rbxcdn.com/36a5f95cb3f5b21b60819270bc0e2095);*/
-  background-size: 70vw;
+  background-size: 20vw;
   font-family: courier;
-  background-repeat: y-repeat;
+  background-repeat: no-repeat;
 }
 #Cp {
   background-image: url(http://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png);
